@@ -1,2 +1,3 @@
  - Possibly make x86 kernel packages even though they would be impossible to boot in order to stick to upstream build.sh OR just wait for upstream deprecation of x86 (probably this one)
  - Kick Out Stock Kernel if it causes boot issues in terms of image sizing "xorriso : WARNING : Boot image load size exceeds 65535 blocks of 512 bytes. Will record 0 in El Torito to extend ESP to end-of-medium."
+ - Migrate kernel repo from local computer onto some sort of remote mirror
